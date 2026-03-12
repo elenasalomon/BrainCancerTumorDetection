@@ -3,7 +3,7 @@
 > Detección automática de tumores cerebrales mediante segmentación semántica con U-Net.
 
 **Deep Learning · Computer Vision — Especialización en Ciencia de Datos e IA (UTEC – MIT)**  
-Elena Salomón · 2025 — 🚧 En progreso
+Elena Salomón · 2026 — 🚧 Mejoras en progreso
 
 ---
 
